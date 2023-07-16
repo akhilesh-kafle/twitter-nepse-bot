@@ -1,0 +1,3 @@
+bots/.env
+bots/__pycache__/config.cpython-310.pyc
+bots/__pycache__/nepse_data.cpython-310.pyc
